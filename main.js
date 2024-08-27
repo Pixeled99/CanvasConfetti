@@ -4,7 +4,7 @@
 // @version      2024-08-27
 // @description  Brighten up your canvas experience with more confetti on your assignments!
 // @author       Pixeled99
-// @match        https://nscds.instructure.com/courses/*/assignments/*
+// @match        https://*.instructure.com/courses/*/assignments/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=instructure.com
 // @license      MIT
 // @grant        none
