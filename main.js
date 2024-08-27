@@ -6,6 +6,7 @@
 // @author       Pixeled99
 // @match        https://nscds.instructure.com/courses/*/assignments/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=instructure.com
+// @license      MIT
 // @grant        none
 // ==/UserScript==
 
